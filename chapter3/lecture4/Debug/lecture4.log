@@ -1,0 +1,8 @@
+﻿  lecture4.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\lecture4\lecture4.c(20,9): warning C4129: '%': unrecognized character escape sequence
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\lecture4\lecture4.c(10,15): warning C4101: 'i8': unreferenced local variable
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\lecture4\lecture4.c(12,11): warning C4101: 'imax': unreferenced local variable
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\lecture4\lecture4.c(13,12): warning C4101: 'uimax': unreferenced local variable
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\lecture4\lecture4.c(11,14): warning C4101: 'f8': unreferenced local variable
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\lecture4\lecture4.c(8,6): warning C4101: 'i': unreferenced local variable
+  lecture4.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter3\Debug\lecture4.exe
