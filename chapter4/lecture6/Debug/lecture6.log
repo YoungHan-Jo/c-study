@@ -1,0 +1,4 @@
+﻿  lecture6.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter4\lecture6\lecture6.c(35,17): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter4\lecture6\lecture6.c(35,17): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  lecture6.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter4\Debug\lecture6.exe
