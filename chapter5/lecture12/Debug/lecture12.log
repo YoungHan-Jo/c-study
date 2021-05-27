@@ -1,0 +1,3 @@
+﻿  lecture12.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter5\lecture12\lecture12.c(14,8): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  lecture12.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter5\Debug\lecture12.exe
