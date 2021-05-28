@@ -1,0 +1,3 @@
+﻿  lecture1.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter6\chapter6\lecture1.c(8,6): warning C4101: 'status': unreferenced local variable
+  chapter6.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter6\Debug\lecture1.exe
