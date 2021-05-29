@@ -1,0 +1,3 @@
+﻿  lecture18.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter6\lecture18\lecture18.c(10,17): warning C4101: 'i': unreferenced local variable
+  lecture18.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter6\Debug\lecture18.exe
