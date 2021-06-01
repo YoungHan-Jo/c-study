@@ -1,0 +1,3 @@
+﻿  lecture88.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter8\lecture88\lecture88.c(28,8): warning C4013: 'exit' undefined; assuming extern returning int
+  lecture88.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter8\Debug\lecture88.exe
