@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture7", "lecture7\lectur
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture88", "lecture88\lecture88.vcxproj", "{5E455D18-1FCF-4CFE-AD0A-4F6BCEAC1D0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lecture9", "lecture9\lecture9.vcxproj", "{F546938C-7F6C-4667-B971-43F6AEBC93BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{5E455D18-1FCF-4CFE-AD0A-4F6BCEAC1D0E}.Release|x64.Build.0 = Release|x64
 		{5E455D18-1FCF-4CFE-AD0A-4F6BCEAC1D0E}.Release|x86.ActiveCfg = Release|Win32
 		{5E455D18-1FCF-4CFE-AD0A-4F6BCEAC1D0E}.Release|x86.Build.0 = Release|Win32
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Debug|x64.ActiveCfg = Debug|x64
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Debug|x64.Build.0 = Debug|x64
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Debug|x86.Build.0 = Debug|Win32
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Release|x64.ActiveCfg = Release|x64
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Release|x64.Build.0 = Release|x64
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Release|x86.ActiveCfg = Release|Win32
+		{F546938C-7F6C-4667-B971-43F6AEBC93BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
