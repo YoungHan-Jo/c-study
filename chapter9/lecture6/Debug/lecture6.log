@@ -1,1 +1,3 @@
-﻿  lecture6.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter9\Debug\lecture6.exe
+﻿  lecture6.c
+C:\Users\YoungHan-Jo\Desktop\c-study\chapter9\lecture6\lecture6.c(10,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [5]'
+  lecture6.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\chapter9\Debug\lecture6.exe
