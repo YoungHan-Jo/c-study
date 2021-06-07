@@ -5,25 +5,12 @@
 
 int main()
 {
-	int a, b;
-	char c;
+	int n;
 
-	scanf("%d%c%d",&a, &c, &b);
+	scanf("%d", &n);
 
-	switch (c)
-	{
-	case '+':
-		printf("%d", a + b);
-		break;
-	case '-':
-		printf("%d", a - b);
-		break;
-	case '*':
-		printf("%d", a * b);
-		break;
-	case '/':
-		printf("%.2f", (float)a / b);
-		break;
+	for (int i = 1; i <= 9; ++i) {
+		printf("%d*%d=%d\n", n, i, n * i);
 	}
 
 	return 0;
