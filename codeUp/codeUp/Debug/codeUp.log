@@ -1,2 +1,3 @@
 ﻿  codeUp.c
+C:\Users\YoungHan-Jo\Desktop\c-study\codeUp\codeUp\codeUp.c(37): warning C4715: 'cal': not all control paths return a value
   codeUp.vcxproj -> C:\Users\YoungHan-Jo\Desktop\c-study\codeUp\Debug\codeUp.exe
