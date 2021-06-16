@@ -2,27 +2,18 @@
 #include <stdio.h>
 #include <math.h>
 
-
 int main()
 {
 	int n;
+	int a[] = {0};
 
 	scanf("%d", &n);
 
-	for (int i = 1; i <= n; ++i) {
-		if (i == 1 || i == n) {
-			for (int j = 1; j <= n; ++j)
-				printf("*");
-		}
-		else {
-			printf("*");
-			for (int j = 1; j <= n - 2; ++j)
-				printf(" ");
-			printf("*");
-		}
-		printf("\n");
-	}
+	int count = n;
 
+	for (int i = 0; i < count; ++i) {
+		scanf("%d", &a[i]);
+	}
 
 	return 0;
 }
